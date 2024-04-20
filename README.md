@@ -31,7 +31,7 @@ pip install pandas numpy scikit-learn nltk matplotlib
 
 1. Clone the repository or download the project files.
 
-2. Place the `sms_spam_dataset.csv` file in the project directory.
+2. Place the `SMS text message.csv` file in the project directory.
 
 3. Run the `sms_spam_detection.py` script to train and evaluate the spam detection model.
 
